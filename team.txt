@@ -4,15 +4,15 @@ Team Name -->  "GIT-TASK-COLLAB-128"
 
 Team Members -->
 
-1. Rajat Agrawal     -->     ("Leading the Group")
+1. Rajat Agrawal     -->  Student 1 Task -->  ("Leading the Group") 
 
-2. Ruchi Priya Kumari
+2. Ruchi Priya Kumari   -->  Student 2 Task
 
-3. Shivam Kumar
+3. Shivam Kumar         -->  Student 3 Task
 
-4. Farhaz Ansari
+4. Farhaz Ansari        -->  Student 4 Task
 
-5. Vaishnavi Dilip Borkar
+5. Vaishnavi Dilip Borkar   -->  Student 5 Task
 
 
 
