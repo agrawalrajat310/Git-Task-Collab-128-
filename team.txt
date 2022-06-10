@@ -4,7 +4,7 @@ Team Name -->  "GIT-TASK-COLLAB-128"
 
 Team Members -->
 
-1. Rajat Agrawal     -->  Student 1 Task -->  ("Leading the Group") 
+1. Rajat Agrawal     -->  Student 1 Task -->  "Group Leader"
 
 2. Ruchi Priya Kumari   -->  Student 2 Task
 
